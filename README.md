@@ -48,3 +48,8 @@ Não há dependências externas além das bibliotecas padrão do Python.
 - O sistema não utiliza persistência de dados em um banco de dados real, sendo apenas uma simulação.
 - Foi implementada uma verificação simples para garantir que nomes de usuário e emails sejam únicos.
 - As descrições das equipes da Fórmula E são fornecidas com base em um dicionário fixo, permitindo uma resposta rápida às escolhas do usuário.
+
+## Link do Repositório
+
+https://github.com/TechSphere-Mahindra-Rancing/Sprint1-Python-Mahindra
+
